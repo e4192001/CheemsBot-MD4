@@ -60,12 +60,12 @@ global.socialm = "instagram: spamoman1" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
+global.owner = ['96890633784']
+global.ownertag = '9689765427' //ur tag number
 global.botname = 'آلُبۆت حٍمدِآن 🇴🇲٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.linkz = "https://www.instagram.com/spamoman1/" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com/spamoman1/" //ur website to be displayed
+global.botscript = 'https://www.instagram.com/spamoman1/' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "⍣ آلُبۆت حٍمدِآن 🇴🇲 ⍣" //ur sticker watermark packname
