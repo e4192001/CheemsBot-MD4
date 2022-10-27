@@ -57,7 +57,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['96890633784'] //ur owner number
 global.ownername = "ŚPĀM ÒMÀÑ 🇴🇲  ٫" //ur owner name
 global.socialm = "instagram: spamoman1" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.location = "oman, muscat, ibra" //ur location
 
 //bot bomdy 
 global.owner = ['96890633784']
@@ -72,10 +72,10 @@ global.packname = "⍣ آلُبۆت حٍمدِآن 🇴🇲 ⍣" //ur sticker wa
 
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.postimg.cc/Mps6cBy1/4.png") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.postimg.cc/Mps6cBy1/4.png") //ur logo pic
+global.err4r = fs.readFileSync("https://i.postimg.cc/Mps6cBy1/4.png") //ur error pic
+global.thumb = fs.readFileSync("https://i.postimg.cc/Mps6cBy1/4.png") //ur thumb pic
 
 //damtabase
 global.premium = ['96897657427'] //ur premium numbers
@@ -132,7 +132,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://i.postimg.cc/Mps6cBy1/4.png')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
